@@ -51,26 +51,20 @@ const Socials: React.FC = () => {
 const socials = [
   {
     id: 1,
-    title: "GitHub",
-    url: "https://github.com/satnaing",
-    tab: 3,
+    title: "LinkedIn",
+    url: "https://www.linkedin.com/in/adyadav1",
+    tab: 1,
   },
   {
     id: 2,
-    title: "Dev.to",
-    url: "https://dev.to/satnaing",
+    title: "GitHub",
+    url: "https://github.com/4ghora",
     tab: 3,
   },
   {
     id: 3,
-    title: "Facebook",
-    url: "https://www.facebook.com/satnaing.dev",
-    tab: 1,
-  },
-  {
-    id: 4,
     title: "Instagram",
-    url: "https://instagram.com/satnaing.dev",
+    url: "https://instagram.com/4ghora.pro",
     tab: 0,
   },
 ];

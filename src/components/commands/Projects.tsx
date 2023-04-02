@@ -39,7 +39,7 @@ const Projects: React.FC = () => {
   ) : (
     <div data-testid="projects">
       <ProjectsIntro>
-        “Talk is cheap. Show me the code”? I got you. <br />
+        “Talk is cheap. Show me the Work”? I got you. <br />
         Here are some of my projects you shouldn't misss
       </ProjectsIntro>
       {projects.map(({ id, title, desc }) => (
@@ -56,27 +56,27 @@ const Projects: React.FC = () => {
 const projects = [
   {
     id: 1,
-    title: "Sat Naing's Blog",
-    desc: "My personal blog where I can write down my thoughts and experiences.",
-    url: "https://satnaing.dev/blog/",
+    title: "4ghora's Blog",
+    desc: "My personal blog where I can write down my thoughts, experiences, Writeups and Notes .",
+    url: "https://blog.4ghora.pro",
   },
   {
     id: 2,
-    title: "Haru Fashion",
-    desc: "An ecommerce web application where users can browse various products and make purchases.",
-    url: "https://haru-fashion.vercel.app/",
+    title: "HackTheBox",
+    desc: "Top 500 Global Hacker. Solved Multiple Machines, Challenges and Exploitable Labs.",
+    url: "https://app.hackthebox.com/profile/228431",
   },
   {
     id: 3,
-    title: "Haru API",
-    desc: "A RESTful API developed for the Haru fashion ecommerce project.",
+    title: "TryHackMe",
+    desc: "Top 1 % and Solved 100+ Labs, Challenges and Vulnerable Network.",
     url: "https://satnaing.github.io/haru-api/",
   },
   {
     id: 4,
-    title: "AstroPaper Blog Theme",
-    desc: "A minimal, accessible and SEO-friendly Astro blog theme.",
-    url: "https://astro-paper.pages.dev/",
+    title: "Jabber",
+    desc: "Javascript TextToSpeech based Web Browser Extention, Currently In Research Phase.",
+    url: "",
   },
 ];
 
