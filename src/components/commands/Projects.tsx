@@ -70,7 +70,7 @@ const projects = [
     id: 3,
     title: "TryHackMe",
     desc: "Top 1 % and Solved 100+ Labs, Challenges and Vulnerable Network.",
-    url: "https://satnaing.github.io/haru-api/",
+    url: "https://tryhackme.com/p/GoodGuyMickey",
   },
   {
     id: 4,
