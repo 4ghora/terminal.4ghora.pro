@@ -67,6 +67,12 @@ const socials = [
     url: "https://instagram.com/4ghora.pro",
     tab: 0,
   },
+  {
+    id: 4,
+    title: "Twitter",
+    url: "https://twitter.com/4ghora",
+    tab: 0,
+  },
 ];
 
 export default Socials;
