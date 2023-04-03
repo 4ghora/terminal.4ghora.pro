@@ -25,12 +25,10 @@ const Welcome: React.FC = () => {
         </PreName>
         <PreWrapper>
           <PreNameMobile>
-            {`                                     
-              
-              
-              |_|_ _  |_   _  ._ _. 
-                | (_| | | (_) | (_| 
-                   _|                                                                                    
+            {`                                             
+ |_|_ _  |_   _  ._ _. 
+   | (_| | | (_) | (_| 
+      _|                                                                                    
             `}
           </PreNameMobile>
         </PreWrapper>
