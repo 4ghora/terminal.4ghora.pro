@@ -26,24 +26,26 @@ const Welcome: React.FC = () => {
         <PreWrapper>
           <PreNameMobile>
             {`
-             ,,,;,.
-            .:,:::';
-            o,..,..l
-            d,...''l
-           .x.     o,
-          .,'      .x'
-         .ll    .   .x;
-         ,.  .',;,.  ',,
-       .dk. ,;:ldc'.  lkc
-      .dko  ''xXN0;.  .xk;
-      lkx   ',::c;;..  :kx.
-      lkl. .''dlcoc.. .,lc
-       okc,..',','.'  ,',
-       .ckd.'.';;;. .'',.
-         od.' .;,'. .,.'
-          :.;     . .;
-           ..       .
-                    .
+                  .   .
+                  ;,,:;''
+                 'c':::;';
+                 d;'''''.l
+                 x,...'.'c
+                 k:  ,:''d.
+                'd       lo.
+               :'.        do.
+              'd,    .     xd'
+             '.'  .',,,,.   c.,
+            :kc. ,;;,::''.  .dx;
+           lkk;  ',cNWWX,.   dkd,
+          :kko   .,:lkxc'..  'xko.
+          dkd.  .',cll:lc.'   cxd'
+          cxo:  '''olc,o:.. .',cl
+          .lkoc..'''',''.'. .;';
+           'cdkc.'..;;;;....;',.
+             oko.' .,,;,. ..''.
+              ;:., . .  . .';.
+              .'.'      . .;.
             `}
           </PreNameMobile>
         </PreWrapper>
