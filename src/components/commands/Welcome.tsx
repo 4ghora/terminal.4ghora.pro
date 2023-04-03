@@ -26,6 +26,8 @@ const Welcome: React.FC = () => {
         <PreWrapper>
           <PreNameMobile>
             {`                                     
+              
+              
               |_|_ _  |_   _  ._ _. 
                 | (_| | | (_) | (_| 
                    _|                                                                                    
