@@ -17,16 +17,24 @@ const Education: React.FC = () => {
 
 const eduBg = [
   {
-    title: "B.Sc (Hons) in Computing",
-    desc: "Edinburgh Napier University | 2018 ~ 2019",
+    title: "B.Com (Computer Application)",
+    desc: "Jiwaji University | 2019 ~ 2022",
   },
   {
-    title: "HND in Computing & System Development",
-    desc: "Info Myanmar University | 2016 - 2018",
+    title: "Network Plus",
+    desc: "CompTIA Network+ ce Certification  | 2022 - Present",
   },
   {
-    title: "IELTS 6.5",
-    desc: "British Council Myanmar | 2017",
+    title: "Security Plus",
+    desc: "CompTIA Security+ ce Certification | 2023 - Present",
+  },
+  {
+    title: "Azure Fundamentals",
+    desc: "Microsoft Certified: Azure Fundamentals | 2022 - Present",
+  },
+  {
+    title: "Certified In Cybersecurity",
+    desc: "Isc2 CIC Certified | 2023 - Present",
   },
 ];
 
