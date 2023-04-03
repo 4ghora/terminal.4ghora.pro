@@ -25,11 +25,14 @@ const Welcome: React.FC = () => {
         </PreName>
         <PreWrapper>
           <PreNameMobile>
-            {`                                             
- |_|_ _  |_   _  ._ _. 
-   | (_| | | (_) | (_| 
-      _|                                                                                    
-            `}
+            {`          
+       ____          __                  
+      / / /  ___ _  / /  ___   ____ ___ _
+     /_  _/ / _  / / _ \\// _ \\ / __// _  /
+      /_/  \\__, / /_//_/\\___//_/   \\__,_/ 
+           /___/                           
+ 
+          `}
           </PreNameMobile>
         </PreWrapper>
         <div>Welcome to my terminal portfolio. (Version 1.3.1)</div>
@@ -49,7 +52,7 @@ const Welcome: React.FC = () => {
       <div className="illu-section">
         <PreImg>
           {`
-                         .......
+                       .......
                        ':;,:::;',.
                       .lc.;:;;:;.c;
                       dd....';...,o
