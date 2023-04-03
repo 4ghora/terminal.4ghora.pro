@@ -71,7 +71,7 @@ const socials = [
     id: 4,
     title: "Twitter",
     url: "https://twitter.com/4ghora",
-    tab: 0,
+    tab: 2,
   },
 ];
 
