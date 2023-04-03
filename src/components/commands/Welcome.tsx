@@ -26,14 +26,25 @@ const Welcome: React.FC = () => {
         <PreWrapper>
           <PreNameMobile>
             {`
-    __ __             __                         
-    / // /   ____ _   / /_   ____    _____  ____ _
-   / // /_  / __  /  / __ \\ / __ \\  / ___/ / __  /
-  /__  __/ / /_/ /  / / / // /_/ / / /    / /_/ / 
-    /_/    \\__, /  /_/ /_/ \\____/ /_/     \\__,_/  
-          /____/  
- 
-          `}
+             ,,,;,.
+            .:,:::';
+            o,..,..l
+            d,...''l
+           .x.     o,
+          .,'      .x'
+         .ll    .   .x;
+         ,.  .',;,.  ',,
+       .dk. ,;:ldc'.  lkc
+      .dko  ''xXN0;.  .xk;
+      lkx   ',::c;;..  :kx.
+      lkl. .''dlcoc.. .,lc
+       okc,..',','.'  ,',
+       .ckd.'.';;;. .'',.
+         od.' .;,'. .,.'
+          :.;     . .;
+           ..       .
+                    .
+            `}
           </PreNameMobile>
         </PreWrapper>
         <div>Welcome to my terminal portfolio. (Version 1.3.1)</div>
@@ -53,7 +64,7 @@ const Welcome: React.FC = () => {
       <div className="illu-section">
         <PreImg>
           {`
-                       .......
+                         .......
                        ':;,:::;',.
                       .lc.;:;;:;.c;
                       dd....';...,o
