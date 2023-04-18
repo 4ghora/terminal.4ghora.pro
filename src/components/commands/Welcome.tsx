@@ -38,8 +38,18 @@ const Welcome: React.FC = () => {
         <div>Welcome to my terminal portfolio. (Version 1.3.1)</div>
         <Seperator>----</Seperator>
         <div>
+          Check Out My Blog Website, It Mainly Contains Writeups, <br></br>
+          Walkthroughs And Notes On Various Topics On <br></br>
+          Information Technology And Security <br></br> Here {" "}
+          <Link href="https://blog.4ghora.pro">
+            4ghora Blog
+          </Link>
+        </div>
+        <Seperator>----</Seperator>
+        <div>
           For a list of available commands, type `<Cmd>help</Cmd>`.
         </div>
+        <Seperator>----</Seperator>
       </div>
       <div className="illu-section">
         <PreImg>
