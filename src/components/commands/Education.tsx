@@ -22,19 +22,19 @@ const eduBg = [
   },
   {
     title: "Network Plus",
-    desc: "CompTIA Network+ ce Certification  | 2022 - Present",
+    desc: "CompTIA Network+ ce Certification  | 2022 - 2025",
   },
   {
-    title: "Security Plus",
-    desc: "CompTIA Security+ ce Certification | 2023 - Present",
+    title: "Certified Ethical Hacker v12 (CEHv12)",
+    desc: "EC-Council | 2023 - 2026",
   },
   {
     title: "Azure Fundamentals",
-    desc: "Microsoft Certified: Azure Fundamentals | 2022 - Present",
+    desc: "Microsoft Certified: Azure Fundamentals | 2022",
   },
   {
     title: "Certified In Cybersecurity",
-    desc: "Isc2 CIC Certified | 2023 - Present",
+    desc: "Isc2 CIC Certified | 2023 - 2026",
   },
 ];
 
