@@ -34,7 +34,7 @@ const eduBg = [
   },
   {
     title: "Certified In Cybersecurity",
-    desc: "Isc2 CIC Certified | 2023 ~ 2026",
+    desc: "Isc2 CC Certified | 2023 ~ 2026",
   },
 ];
 
